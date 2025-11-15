@@ -59,6 +59,8 @@ When a user disconnects, the server broadcasts:
 ```
 INFO <username> disconnected
 ```
+## Recording link
+https://drive.google.com/file/d/1M-scZPVMu2sSWPLfIPigNb_CuW_jlCv7/view?usp=sharing
 
 ## Notes
 
