@@ -26,22 +26,21 @@ Open PowerShell in this project folder and run:
 python chat_server.py
 
 ## 2. Connect Clients
-## Connect using nc or telnet
 
-# Using netcat
+Using netcat
 nc localhost 4000
 
-# Using telnet  
+Using telnet  
 telnet localhost 4000
 
 ## 3. Login & Chat
 
-# Client 1:
+Client 1:
 LOGIN alice
 OK
 MSG Hello everyone!
 
-# Client 2:
+Client 2:
 LOGIN bob
 OK
 MSG alice Hello world!
